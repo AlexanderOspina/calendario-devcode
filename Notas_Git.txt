@@ -1,0 +1,13 @@
+comandos GIT
+
+Configuar usuario
+
+C:\WINDOWS\system32>git config --global user.name "alexanderospina"
+
+C:\WINDOWS\system32>git config --global user.email "alex214_8@hotmail.com"
+
+
+C:\WINDOWS\system32>git config --global core.editor "editor -- atom -- sublimetext"
+
+
+C:\WINDOWS\system32>git config --list
